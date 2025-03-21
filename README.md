@@ -92,5 +92,3 @@ git push -u origin main
   - **設定 SSH（方法 3）**
 - **如果 `cadencesound/github-practice` 是別人的倉庫**
   - 你需要請 `cadencesound` 給你 `Write` 權限
-
-🚀 **試試這些方法，如果還有問題，請回報完整的錯誤訊息，我會進一步幫你解決！💪**
