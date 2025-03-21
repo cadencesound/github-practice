@@ -1,5 +1,15 @@
-這是我初試github的檔案
-## 若連結github被拒 
+
+# 這是我初試github的檔案
+---
+SECTION 1
+---
+[教學Youtube影片](https://youtu.be/FKXRiAiQFiY?si=ZVXTavbVvuIIuZEP)
+
+---
+SECTION 2 
+---
+
+## 錯誤排除
 
 ---
 
